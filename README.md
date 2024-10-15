@@ -58,6 +58,7 @@ The dataset is sourced from the Kaggle Dog Breed Identification.
 * Use the logs stored in the logs/ folder to track model performance.
 * Reload and use the trained model from the models/ folder for future predictions.
 ##
+##
 
 #### Colab Troubleshooting & Common Issues:
 When running the notebook in Google Colab, you might face a few common issues. Here are some possible troubleshooting tips:
