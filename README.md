@@ -4,7 +4,7 @@ This project aims to classify different dog breeds using `transfer learning` and
 
 ### Workflow Overview:
 
-#### 1. Data Preparation
+#### 1. Data Preparation.
 
 #### Download the dataset from Kaggle.
 > https://www.kaggle.com/c/dog-breed-identification/data
