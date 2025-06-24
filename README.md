@@ -99,4 +99,4 @@ If training is slow, try using a GPU runtime in Colab.
 > Solution: Go to Runtime > Change runtime type > Hardware accelerator > GPU.
 
 #### License
-This project is open-source under the `MIT License`.
+This project is open-source under the `MIT License`..
